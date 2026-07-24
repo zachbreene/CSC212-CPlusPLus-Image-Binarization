@@ -1,5 +1,6 @@
 <h1 align=center> C++ Binarization Algorithm </h1>
 <h2 align=center> A CSC212: Data Structures by Zachary Breene </h2>
+<h4 align=center> Created at The University of Rhode Island, September 2021 </h4>
 </n>
 <h4 align=center> *NO AI WAS USED IN THE CREATION OF THIS PROJECT* </h4>
 
