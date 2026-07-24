@@ -12,7 +12,7 @@ Due 9/28
 #include <algorithm>
 using namespace std;
 
-// Calculates the local threshold using a variation of Sauvola's binarization method.
+// Calculates the local threshold.
 float localEquation(vector<double> *area, float n){
   // Initialize values to avoid garbage data.
   double stdev, sum = 0, total = 0, mean = 0;
