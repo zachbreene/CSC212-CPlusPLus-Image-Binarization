@@ -1,5 +1,5 @@
-<h1 align=center> Binarization Algorithm </h1>
-<h2 align=center> A C++ Project by Zachary Breene </h2>
+<h1 align=center> C++ Binarization Algorithm </h1>
+<h2 align=center> A CSC212: Data Structures by Zachary Breene </h2>
 </n>
 <h4 align=center> *NO AI WAS USED IN THE CREATION OF THIS PROJECT* </h4>
 
